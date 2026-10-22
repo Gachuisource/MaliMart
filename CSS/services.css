@@ -1,0 +1,30 @@
+#ourpremiumservices{ 
+ font-weight: bold;
+}
+
+#fastshippingtitle{
+ color: hotpink;
+}
+
+.one{
+ font-style: oblique;
+}
+
+#VIP{
+ background-color: lightpink;
+ margin: 50px;
+ padding: 20px;
+ border-radius: 20px;
+}
+
+#main{
+ display: flex;
+}
+
+.two{
+ background-color: lightpink;
+ margin-left: 20px;
+ padding: 20px;
+ text-align: center;
+ border-radius: 20px;
+}
